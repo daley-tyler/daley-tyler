@@ -1,10 +1,10 @@
 # Hi, I'm Tyler Daley
 
-I graduated from Miami University in May 2026 with a BS in Computer Science and a minor in Statistical Methods. I build backend services, web applications and tools for working with data.
+I graduated from Miami University in May 2026 with a BS in Computer Science and a minor in Statistical Methods. I build backend services and web applications, and I use Python for data analysis, machine learning and document retrieval.
 
-At ASL in New Zealand, my software and systems work includes Linux infrastructure, automated storage workflows and permission-aware document retrieval. My freelance work for HWArobotics includes a Python/PySide6 warehouse analytics application, data validation and Excel reporting. These commercial systems are private; the projects below are independently shareable work.
+At ASL in New Zealand, my software and systems work includes Linux infrastructure, automated storage workflows and permission-aware document retrieval. My freelance work for HWArobotics includes a Python/PySide6 warehouse analytics application, data validation and Excel reporting.
 
-I work with Python, Java, SQL, React, Linux, Docker, FastAPI and PostgreSQL. I'm looking for junior software engineering, Python, backend and data roles, primarily in Cincinnati and Chicago.
+I work with Python, Java, SQL, React, Linux, Docker, FastAPI and PostgreSQL. I'm looking for junior software engineering roles in Cincinnati and Chicago, including Python, backend, data engineering and applied AI roles.
 
 ## Selected projects
 
@@ -18,7 +18,7 @@ NumPy implementations of classifiers, preprocessing, PCA and clustering, with nu
 
 ### [Article Retrieval Chatbot](https://github.com/daley-tyler/article-retrieval-chatbot)
 
-A Python document-search application using MiniLM embeddings and NumPy retrieval. It returns cited extracts or refuses unsupported questions, with regression tests and real-model integration checks. It uses extractive answers rather than an LLM generation service.
+A Python document-search application using MiniLM embeddings and NumPy retrieval. It returns cited extracts or refuses unsupported questions, with regression tests and real-model integration checks. It answers by selecting a sentence from the retrieved text.
 
 ### [Daley Dynamics Website](https://github.com/daley-tyler/daley-dynamics-website)
 
@@ -28,4 +28,8 @@ A Vite and vanilla JavaScript website with a WebGL background and a Node.js enqu
 
 An R Shiny application with Leaflet maps and ggplot2 charts for exploring UNESCO records alongside selected regional points of interest. It demonstrates geospatial data preparation and interactive visualization, with the dataset's coverage limits documented.
 
-I also maintain an [isometric strategy prototype](https://github.com/daley-tyler/isometric-strategy-game) and the [source-only JARVIS interface](https://github.com/daley-tyler/jarvis-interface). Their repositories explain the project origins, included material and validation limits.
+### [Isometric Strategy Game](https://github.com/daley-tyler/isometric-strategy-game)
+
+A Godot prototype that puts city building and combat on the same map. The player and AI opponent use the same simulation rules for resources, construction and unit production. Headless tests cover pathfinding, campaign outcomes and save recovery.
+
+I also share the [Python source and tests for my JARVIS voice and gesture interface](https://github.com/daley-tyler/jarvis-interface).
