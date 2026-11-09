@@ -2,7 +2,7 @@
 
 I graduated from Miami University in May 2026 with a BS in Computer Science and a minor in Statistical Methods. I build backend services and web applications, and I use Python for data analysis, machine learning and document retrieval.
 
-At ASL in New Zealand, my software and systems work includes Linux infrastructure, automated storage workflows and permission-aware document retrieval. My freelance work for HWArobotics includes a Python/PySide6 warehouse analytics application, data validation and Excel reporting.
+At ASL in New Zealand, my software and systems work includes Linux infrastructure, automated storage workflows and permission-aware document retrieval. My freelance work includes a Python/PySide6 warehouse analytics application, data validation and Excel reporting.
 
 I work with Python, Java, SQL, React, Linux, Docker, FastAPI and PostgreSQL. I'm interested in junior software engineering roles involving Python, backend development, data engineering and applied AI.
 
