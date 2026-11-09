@@ -4,7 +4,7 @@ I graduated from Miami University in May 2026 with a BS in Computer Science and 
 
 At ASL in New Zealand, my software and systems work includes Linux infrastructure, automated storage workflows and permission-aware document retrieval. My freelance work for HWArobotics includes a Python/PySide6 warehouse analytics application, data validation and Excel reporting.
 
-I work with Python, Java, SQL, React, Linux, Docker, FastAPI and PostgreSQL. I'm looking for junior software engineering roles in Cincinnati and Chicago, including Python, backend, data engineering and applied AI roles.
+I work with Python, Java, SQL, React, Linux, Docker, FastAPI and PostgreSQL. I'm interested in junior software engineering roles involving Python, backend development, data engineering and applied AI.
 
 ## Selected projects
 
